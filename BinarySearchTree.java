@@ -1,12 +1,4 @@
-/*
- * Purpose: Data Structure and Algorithms Lab 11 Problem 1
- * Status: Complete and thoroughly tested
- * Last update: 11/29/20
- * Submitted:  11/29/20
- * Comment: Lab11
- * @author: Batuhan Kir
- * @version: 2020.11.29
- */
+
 public class BinarySearchTree<T extends KeyedItem<KT>,
                             KT extends Comparable<? super KT>>
        extends BinaryTreeBasis<T> {
